@@ -10,9 +10,8 @@
 
 Check if you have it already installed
 
-´´´sh
-pip --version
-´´´
+<code>pip --version</code>
+
 
 - **Install Paho MQTT client using the followin pip command**
 
